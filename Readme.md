@@ -1,7 +1,7 @@
 # Личный проект «Кэт энерджи» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Анастасия Ушакова](https://up.htmlacademy.ru/adaptive/20/user/1519031).
-* Наставник: Алексей Зольников.
+* Наставник: [Алексей Зольников](https://htmlacademy.ru/profile/id870391).
 
 ---
 
